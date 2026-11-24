@@ -52,4 +52,4 @@ Instancium.Trust.Cli verify \
 
 * `/keys` — Root public keys (`*.pub`) and the active `release-key.cert`.
 * `/docs` — Signed official documents (including `/docs/doctrine/` with `Instancium_Doctrine.pdf`, `doctrine.manifest.json`, and `doctrine.sig`).
-* `/drivers` — Signed driver packages and manifests.
+* `/drivers` — Upstream licenses and component metadata. Signed driver packages and the installer (`InstanciumSetup.exe`) are distributed via GitHub Releases (Assets).

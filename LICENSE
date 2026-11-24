@@ -21,11 +21,12 @@ downloaded, stored, and redistributed ONLY in their exact, unmodified form toget
 with their accompanying *.manifest.json and *.sig files. Modification, translation,
 or creation of derivative works is not permitted without prior written consent.
 
-3. Drivers and Third-Party Binaries (/drivers)
+3. Drivers and Third-Party Binaries (/drivers and GitHub Release Assets)
 
-Driver packages and third-party runtime components distributed under /drivers remain
-the property of their respective copyright holders and are governed by their original
-upstream licenses (included within each package or its accompanying notice file).
+Driver packages and third-party runtime components distributed via GitHub Release Assets
+remain the property of their respective copyright holders and are governed by their
+original upstream licenses. Applicable upstream licenses and component metadata are
+maintained under /drivers (and included within each release package).
 
 4. Disclaimer of Warranty
 
