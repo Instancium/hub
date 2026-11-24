@@ -1,4 +1,4 @@
-# instancium-hub
+# Instancium Hub
 
 Public trust anchor repository for Instancium releases, drivers, and official documents.
 
@@ -51,5 +51,5 @@ Instancium.Trust.Cli verify \
 ## Repository Layout
 
 * `/keys` — Root public keys (`*.pub`) and the active `release-key.cert`.
-* `/documents` — Signed official documents (including `/documents/doctrine/` with `Instancium_Doctrine.pdf`, `doctrine.manifest.json`, and `doctrine.sig`).
+* `/docs` — Signed official documents (including `/docs/doctrine/` with `Instancium_Doctrine.pdf`, `doctrine.manifest.json`, and `doctrine.sig`).
 * `/drivers` — Signed driver packages and manifests.

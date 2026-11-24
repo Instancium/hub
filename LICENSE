@@ -1,0 +1,37 @@
+Instancium Hub License
+
+This repository ("https://github.com/instancium/hub") is a public trust anchor and 
+distribution hub for Instancium.
+Because it contains different categories of artifacts, licensing is scoped by directory
+and file type.
+
+1. Trust Anchors and Verification Metadata (/keys, *.manifest.json, *.sig)
+
+All public keys (*.pub), certificates (*.cert), manifests (*.manifest.json), detached
+signatures (*.sig), and verification instructions in README.md may be freely copied,
+cached, mirrored, and used by any client or third party for cryptographic verification
+purposes without restriction.
+
+2. Official Documents (/docs)
+
+Copyright (c) 2026 Instancium. All Rights Reserved.
+
+Official documents published under /docs (including the Instancium Doctrine) may be
+downloaded, stored, and redistributed ONLY in their exact, unmodified form together
+with their accompanying *.manifest.json and *.sig files. Modification, translation,
+or creation of derivative works is not permitted without prior written consent.
+
+3. Drivers and Third-Party Binaries (/drivers)
+
+Driver packages and third-party runtime components distributed under /drivers remain
+the property of their respective copyright holders and are governed by their original
+upstream licenses (included within each package or its accompanying notice file).
+
+4. Disclaimer of Warranty
+
+ALL FILES, KEYS, AND ARTIFACTS IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT
+SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE USE OF THIS REPOSITORY.
