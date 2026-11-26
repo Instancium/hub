@@ -61,3 +61,12 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+
+# Signed trust artifacts must remain byte-for-byte identical across all OSes
+*.pdf binary
+*.sig binary
+*.cert binary
+*.pub binary
+*.manifest.json binary
+manifest.json binary
