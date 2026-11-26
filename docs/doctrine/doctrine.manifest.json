@@ -1,0 +1,15 @@
+{
+  "v": 1,
+  "alg": "ed25519",
+  "kid": "release-2026-11",
+  "product": "Instancium.Doctrine",
+  "version": "1.0.0",
+  "issuedAt": "2026-11-26T07:56:18.3412582+00:00",
+  "artifacts": [
+    {
+      "path": "Instancium_Doctrine.pdf",
+      "sha256": "8ec49504355a25d3572fc703e596ded3031f9e903cb205ebbeb053f6b701b31e",
+      "size": 368680
+    }
+  ]
+}
